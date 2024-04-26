@@ -1,0 +1,12 @@
+# ninja log v5
+1	115	7358006301873782	CMakeFiles/untitled2.dir/main.c.obj	7c9b256b49314745
+5	766	7358016241975414	CMakeFiles/untitled2.dir/vidu1.c.obj	500cf5f05d0bf232
+11	131	7358011362803195	CMakeFiles/untitled2.dir/goiham.c.obj	760fa0090ae7b602
+221	462	7358021863937054	untitled2.exe	3c47adbd214dc347
+6	171	7358021860965008	CMakeFiles/untitled2.dir/vidu2.c.obj	54ea5da53f832ab9
+15	221	7358021861553431	CMakeFiles/untitled2.dir/vidu_3.c.obj	9157a1bab87fe58a
+9	137	7358026461122018	CMakeFiles/untitled2.dir/vidu_3.c.obj	9157a1bab87fe58a
+3	187	7358026461690500	CMakeFiles/untitled2.dir/vi_du_4.c.obj	5cfc155637d9c153
+187	480	7358026464592741	untitled2.exe	9db41465d834dbb1
+5	159	7358027907460940	CMakeFiles/untitled2.dir/vi_du_4.c.obj	5cfc155637d9c153
+160	301	7358027908867149	untitled2.exe	9db41465d834dbb1
